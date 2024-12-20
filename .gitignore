@@ -1,0 +1,10 @@
+
+/wandb
+cached_lm_GPT2Tokenizer_512_financial_news.txt.lock
+
+__pycache__
+.venv
+
+financial-gpt2
+
+
